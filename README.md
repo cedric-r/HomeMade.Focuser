@@ -24,7 +24,10 @@ The last position of the focuser is persistent so no need to do anything at the 
 
 Projects:
 [HomeMade.Focuser](https://github.com/cedric-r/HomeMade.Focuser)
+
 [ipfocuser](https://github.com/cedric-r/ipfocuser)
+
 [ip-focuser](https://github.com/cedric-r/ip-focuser)
+
 [ASCOM.HomeMade.Focuser](https://github.com/cedric-r/ASCOM.HomeMade.Focuser)
 
