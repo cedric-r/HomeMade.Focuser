@@ -22,7 +22,8 @@ The last position of the focuser is persistent so no need to do anything at the 
 
 ![project box](http://www.raguenaud-online.org/cedric/photos/astro/focuser/focuser.png)
 
-Projects:
+Related projects:
+
 [HomeMade.Focuser](https://github.com/cedric-r/HomeMade.Focuser)
 
 [ipfocuser](https://github.com/cedric-r/ipfocuser)
