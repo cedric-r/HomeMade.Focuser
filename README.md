@@ -18,3 +18,7 @@ The driver supports both absolute and relative positioning. Communication is don
 
 The last position of the focuser is persistent so no need to do anything at the start of every session. Just continue where you left off.
 
+## Overall architecture
+
+![project box](http://www.raguenaud-online.org/cedric/photos/astro/focuser/focuser.png)
+
